@@ -1,25 +1,25 @@
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-CC%20BY%204.0-green.svg)
+![Version](https://img.shields.io/badge/version-1.1.0-blue.svg) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-green.svg)
 
 # Vector Database Cloud Showcase
 
-Welcome to the Vector Database Cloud Showcase repository! This space is dedicated to highlighting innovative projects and use cases developed by our customers using Vector Database Cloud technologies. Explore real-world applications and get inspired by the diverse ways our platform is being utilized across various industries.
+Welcome to the Vector Database Cloud Showcase repository! This space highlights innovative projects and use cases developed by our customers using Vector Database Cloud technologies. Explore real-world applications and get inspired by the diverse ways our platform is being utilized across various industries.
 
 ## Table of Contents
 
-- [About](#about)
-- [Featured Projects](#featured-projects)
-- [How to Submit Your Project](#how-to-submit-your-project)
-- [Usage](#usage)
-- [Contribution Guidelines](#contribution-guidelines)
-- [Code of Conduct](#code-of-conduct)
-- [License](#license)
-- [Disclaimer](#disclaimer)
+1- [About](#about)
+2- [Featured Projects](#featured-projects)
+3- [How to Submit Your Project](#how-to-submit-your-project)
+4- [Benefits of Showcasing Your Project](#benefits-of-showcasing-your-project)
+5- [Usage](#usage)
+6- [Contribution Guidelines](#contribution-guidelines)
+7- [Code of Conduct](#code-of-conduct)
+8- [License](#license)
+9- [Disclaimer](#disclaimer)
+
 
 ## About
 
 Vector Database Cloud provides one-click deployment of popular vector databases including Qdrant, Milvus, ChromaDB, and Pgvector on cloud. Our platform ensures a secure API, a comprehensive customer dashboard, efficient vector search, and real-time monitoring.
-
 
 ## Featured Projects
 
@@ -55,6 +55,20 @@ Project submission template:
 **Customer**: [Your company name]
 ```
 
+## Benefits of Showcasing Your Project
+
+Sharing your project in this showcase offers several advantages:
+
+1. **Visibility**: Gain exposure for your innovative use of Vector Database Cloud technologies.
+2. **Community Recognition**: Receive acknowledgment from peers and industry experts for your work.
+3. **Networking Opportunities**: Connect with other professionals and potential collaborators in the field.
+4. **Knowledge Sharing**: Contribute to the community's collective knowledge and inspire others.
+5. **Feedback**: Receive valuable feedback and insights from the Vector Database Cloud community.
+6. **Portfolio Building**: Enhance your professional portfolio with a featured project in a recognized showcase.
+7. **Industry Insights**: Gain visibility into how others are solving similar challenges across various industries.
+
+By participating in this showcase, you're not only highlighting your own achievements but also contributing to the growth and innovation of the entire Vector Database Cloud ecosystem.
+
 ## Usage
 
 This showcase is intended for informational and inspirational purposes. To learn more about a specific project:
@@ -68,11 +82,11 @@ This showcase is intended for informational and inspirational purposes. To learn
 - Ensure all project information is accurate and up-to-date
 - Obtain necessary permissions before sharing any proprietary information
 - Follow the provided template for consistency
+- Include relevant tags or categories for your project to improve discoverability
 
 ## Code of Conduct
 
 We adhere to the [Vector Database Cloud Code of Conduct](https://github.com/VectorDBCloud/Community/blob/main/CODE_OF_CONDUCT.md). Please read and follow these guidelines in all your interactions with the project.
-
 
 
 ## License
@@ -88,12 +102,11 @@ You are free to:
 Under the following terms:
 - Attribution — You must give appropriate credit to Vector Database Cloud, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests Vector Database Cloud endorses you or your use.
 
-Additionally, we require that any use of this guide includes visible attribution to Vector Database Cloud. This attribution should be in the form of "Showcase curated by Vector Database Cloud" or "Based onVector Database Cloud Showcase", along with a link to https://vectordbcloud.com, in any public-facing applications, documentation, or redistributions of this guide.
+Additionally, we require that any use of this guide includes visible attribution to Vector Database Cloud. This attribution should be in the form of "Showcase curated by Vector Database Cloud" or "Based on Vector Database Cloud Showcase", along with a link to https://vectordbcloud.com, in any public-facing applications, documentation, or redistributions of this guide.
 
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 For the full license text, visit: https://creativecommons.org/licenses/by/4.0/legalcode
-
 
 
 ## Disclaimer

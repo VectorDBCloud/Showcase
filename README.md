@@ -82,7 +82,7 @@ You are free to:
 Under the following terms:
 - Attribution — You must give appropriate credit to Vector Database Cloud, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests Vector Database Cloud endorses you or your use.
 
-Additionally, we require that any use of this guide includes visible attribution to Vector Database Cloud. This attribution should be in the form of "Showcase created by Vector Database Cloud" or "Based onVector Database Cloud Showcase", along with a link to https://vectordbcloud.com, in any public-facing applications, documentation, or redistributions of this guide.
+Additionally, we require that any use of this guide includes visible attribution to Vector Database Cloud. This attribution should be in the form of "Showcase curated by Vector Database Cloud" or "Based onVector Database Cloud Showcase", along with a link to https://vectordbcloud.com, in any public-facing applications, documentation, or redistributions of this guide.
 
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
@@ -92,16 +92,16 @@ For the full license text, visit: https://creativecommons.org/licenses/by/4.0/le
 
 ## Disclaimer
 
-The projects showcased in this repository are independent implementations by Vector Database Cloud customers. Vector Database Cloud does not claim ownership or responsibility for these projects. For specific inquiries about a project, please contact the respective customer directly if contact information is provided.
+The information and resources provided in this community repository are for general informational purposes only. While we strive to keep the information up-to-date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information, products, services, or related graphics contained in this repository for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
 
-The inclusion of a project in this showcase does not imply an endorsement of the project or the customer by Vector Database Cloud. Users should perform their own due diligence before implementing similar solutions.
+Vector Database Cloud configurations may vary, and it's essential to consult the official documentation before implementing any solutions or suggestions found in this community repository. Always follow best practices for security and performance when working with databases and cloud services.
 
-Vector Database Cloud is not responsible for the accuracy, completeness, or reliability of any information provided in these project showcases. The showcased projects may use various technologies and tools, and their performance, scalability, and security implications may vary.
+The content in this repository may change without notice. Users are responsible for ensuring they are using the most current version of any information or code provided.
 
-By using the information in this showcase, you agree that Vector Database Cloud shall not be held liable for any damages resulting from the use or misuse of any information provided here.
+This disclaimer applies to Vector Database Cloud, its contributors, and any third parties involved in creating, producing, or delivering the content in this repository.
 
-The technologies, tools, and approaches used in these projects may be subject to their own licenses, terms of use, and restrictions. It is the responsibility of anyone interested in replicating or adapting these projects to ensure compliance with all applicable licenses, laws, and regulations.
+The use of any information or code in this repository may carry inherent risks, including but not limited to data loss, system failures, or security vulnerabilities. Users should thoroughly test and validate any implementations in a safe environment before deploying to production systems.
 
-Project descriptions and details are provided by the customers and may not reflect the most current status of the project. Vector Database Cloud does not guarantee the ongoing availability, maintenance, or support of the showcased projects.
+For complex implementations or critical systems, we strongly recommend seeking advice from qualified professionals or consulting services.
 
-This showcase is for informational purposes only and does not constitute professional advice. Always consult with qualified professionals before implementing any new technology or solution in your organization.
+By using this repository, you acknowledge and agree to this disclaimer. If you do not agree with any part of this disclaimer, please do not use the information or resources provided in this repository.

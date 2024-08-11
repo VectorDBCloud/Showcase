@@ -6,15 +6,15 @@ Welcome to the Vector Database Cloud Showcase repository! This space highlights 
 
 ## Table of Contents
 
-1- [About](#about)
-2- [Featured Projects](#featured-projects)
-3- [How to Submit Your Project](#how-to-submit-your-project)
-4- [Benefits of Showcasing Your Project](#benefits-of-showcasing-your-project)
-5- [Usage](#usage)
-6- [Contribution Guidelines](#contribution-guidelines)
-7- [Code of Conduct](#code-of-conduct)
-8- [License](#license)
-9- [Disclaimer](#disclaimer)
+1. [About](#about)
+2. [Featured Projects](#featured-projects)
+3. [How to Submit Your Project](#how-to-submit-your-project)
+4. [Benefits of Showcasing Your Project](#benefits-of-showcasing-your-project)
+5. [Usage](#usage)
+6. [Contribution Guidelines](#contribution-guidelines)
+7. [Code of Conduct](#code-of-conduct)
+8. [License](#license)
+9. [Disclaimer](#disclaimer)
 
 
 ## About

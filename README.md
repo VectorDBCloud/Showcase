@@ -15,6 +15,12 @@ Welcome to the Vector Database Cloud Showcase repository! This space is dedicate
 - [Code of Conduct](#code-of-conduct)
 - [License](#license)
 - [Disclaimer](#disclaimer)
+
+## About
+
+Vector Database Cloud provides one-click deployment of popular vector databases including Qdrant, Milvus, ChromaDB, and Pgvector on cloud. Our platform ensures a secure API, a comprehensive customer dashboard, efficient vector search, and real-time monitoring.
+
+
 ## Featured Projects
 
 [This section will be populated with customer projects. For each project, include:]

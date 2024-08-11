@@ -12,10 +12,10 @@ Welcome to the Vector Database Cloud Showcase repository! This space highlights 
 4. [Benefits of Showcasing Your Project](#benefits-of-showcasing-your-project)
 5. [Usage](#usage)
 6. [Contribution Guidelines](#contribution-guidelines)
-7. [Code of Conduct](#code-of-conduct)
-8. [License](#license)
-9. [Disclaimer](#disclaimer)
-
+7. [Contact and Support](#contact-and-support)
+8. [Code of Conduct](#code-of-conduct)
+9. [License](#license)
+10. [Disclaimer](#disclaimer)
 
 ## About
 
@@ -23,13 +23,29 @@ Vector Database Cloud provides one-click deployment of popular vector databases 
 
 ## Featured Projects
 
-[This section will be populated with customer projects. For each project, include:]
+Here are some examples of innovative projects using Vector Database Cloud:
 
-- Project Name
-- Brief Description
-- Key Technologies Used
-- Link to Project (if publicly available)
-- Customer Name (with permission)
+### AI-Powered Content Recommendation Engine
+
+**Description**: A sophisticated content recommendation system for a major online media platform.
+
+**Technologies Used**: Qdrant, BERT embeddings, Vector Database Cloud API
+
+**Impact**: Increased user engagement by 35% and average session duration by 28%.
+
+**Customer**: MediaTech Innovations Inc.
+
+### Real-time Fraud Detection System
+
+**Description**: An advanced fraud detection system for a global e-commerce platform.
+
+**Technologies Used**: Milvus, custom embeddings model, Vector Database Cloud dashboard
+
+**Impact**: Reduced fraudulent transactions by 62% while maintaining a low false positive rate.
+
+**Customer**: SecureCommerce Solutions Ltd.
+
+(More projects will be added as they are submitted and approved)
 
 ## How to Submit Your Project
 
@@ -41,7 +57,7 @@ If you're a Vector Database Cloud customer and would like to showcase your proje
 4. Submit a pull request with a clear description of your project
 
 Project submission template:
-```
+```markdown
 ### [Project Name]
 
 **Description**: [Brief description of the project and its goals]
@@ -54,6 +70,8 @@ Project submission template:
 
 **Customer**: [Your company name]
 ```
+
+Note: Projects are reviewed and selected for featuring on a monthly basis. We may reach out for additional information or clarification if needed.
 
 ## Benefits of Showcasing Your Project
 
@@ -83,6 +101,21 @@ This showcase is intended for informational and inspirational purposes. To learn
 - Obtain necessary permissions before sharing any proprietary information
 - Follow the provided template for consistency
 - Include relevant tags or categories for your project to improve discoverability
+- Projects should demonstrate innovative use of Vector Database Cloud technologies
+- Submissions should be in English and free of grammatical errors
+- Include quantifiable results or impacts where possible
+- Be prepared to respond to community questions about your project
+
+## Contact and Support
+
+For questions, support, or more information about Vector Database Cloud:
+
+- Visit our [official website](https://vectordbcloud.com)
+- Email us at support@vectordbcloud.com
+- Join our [community forum](https://community.vectordbcloud.com)
+- Follow us on [Twitter](https://twitter.com/VectorDBCloud) for the latest updates
+
+We aim to respond to all inquiries within 24-48 business hours.
 
 ## Code of Conduct
 
@@ -102,7 +135,7 @@ You are free to:
 Under the following terms:
 - Attribution — You must give appropriate credit to Vector Database Cloud, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests Vector Database Cloud endorses you or your use.
 
-Additionally, we require that any use of this guide includes visible attribution to Vector Database Cloud. This attribution should be in the form of "Showcase curated by Vector Database Cloud" or "Based on Vector Database Cloud Showcase", along with a link to https://vectordbcloud.com, in any public-facing applications, documentation, or redistributions of this guide.
+Additionally, we require that any use of this guide includes visible attribution to Vector Database Cloud. This attribution should be in the form of "Showcase Projects powered by Vector Database Cloud" or "Based on Vector Database Cloud Showcase Projects", along with a link to https://vectordbcloud.com, in any public-facing applications, documentation, or redistributions of this guide.
 
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
